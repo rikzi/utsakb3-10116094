@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UtsAKB10116094</string>
+    <string name="_10116094">10116094</string>
+    <string name="muhamad_rizki">Muhamad Rizki</string>
+
+    //teks view pager
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">UTS AKB</string>
+    <string name="slide_1_desc">untuk memenuhi tugas uts</string>
+
+    <string name="slide_2_title">10116094</string>
+    <string name="slide_2_desc">awal tampilan adalah spalshscreen dengan biodata diri</string>
+
+    <string name="slide_3_title">Muhammad Rizki</string>
+    <string name="slide_3_desc">yang kedua adalah view pager</string>
+
+    <string name="slide_4_title">IF3 - AKB3</string>
+    <string name="slide_4_desc">Yang ketiga bottom navigation!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
